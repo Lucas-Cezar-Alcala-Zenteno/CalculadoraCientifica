@@ -17,5 +17,8 @@ public class CalculadoraCientifica{
 
         //saída = montar a string, utilizando a concatenação + 
         JOptionPane.showMessageDialog(null, "a raiz de " + numero + " = " + raiz); 
+        //calculadora finalizada
+
+        
     }
 }
